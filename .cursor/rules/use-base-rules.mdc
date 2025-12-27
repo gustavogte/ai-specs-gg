@@ -1,14 +1,12 @@
 ---
 description: Directs all AI agents to use the consolidated rules in base-standards.mdc
-globs: 
-alwaysApply: true
+alwaysApply: false
 ---
-
 # Use Base Development Rules
 
 All AI agents working on this project must follow the comprehensive development rules and guidelines defined in:
 
-**📋 [ai-specs/specs/base-standards.mdc](../../ai-specs-gg/specs/base-standards.mdc)**
+**📋 [ai-specs/specs/base-standards.mdc](../../ai-specs/specs/base-standards.mdc)**
 
 ## Key Directive
 
