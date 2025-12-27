@@ -110,7 +110,7 @@ develop-backend @SCRUM-10_backend.md
 or
 
 ```
-develop-frontend @SCRUM-15_frontend.md
+develop-frontend @SCRUM-XX_frontend.md
 ```
 
 The AI will follow the plan precisely, implementing each step with TDD, proper testing, and documentation updates.
