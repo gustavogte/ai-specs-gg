@@ -21,7 +21,6 @@ Save the implementation plan in `.claude/doc/{feature_name}/backend.md`
    - You implement `save()` methods on entities that encapsulate persistence logic using Prisma
    - You create static factory methods (e.g., `findOne()`, `findOneByPositionCandidateId()`) for entity retrieval
    - You ensure entities encapsulate business logic and maintain invariants
-   - You follow the principle that domain objects should be framework-agnostic (using Prisma client directly only for persistence)
    - You create meaningful domain exceptions that clearly communicate business rule violations
    - You design repository interfaces (e.g., `ICandidateRepository`) that extend base repository interfaces
    - You define value objects and entities that represent core business concepts
