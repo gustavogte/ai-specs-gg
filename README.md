@@ -14,8 +14,7 @@ This repository contains a comprehensive set of development rules, standards, an
 │   │   ├── documentation-standards.mdc
 │   │   ├── api-spec.yml         # OpenAPI specification
 │   │   ├── data-model.md        # Database and domain models
-│   │   ├── development_guide.md
-│   │   └── prompts.md           # Reusable prompt templates
+│   │   └── development_guide.md
 │   └── changes/                 # Feature implementation plans
 │       └── SCRUM-10_backend.md  # Demo: Position update feature plan
 │
@@ -257,8 +256,7 @@ All development follows principles defined in `ai-specs/specs/base-standards.mdc
 1. **Update `base-standards.mdc`**: Modify core principles to match your needs
 2. **Add Domain Rules**: Include project-specific business rules
 3. **Extend Standards**: Add technology-specific guidelines (Vue, Angular, etc.)
-4. **Create Templates**: Add prompt templates in `prompts.md`
-5. **Link Resources**: Reference your project's specific documentation
+4. **Link Resources**: Reference your project's specific documentation
 
 ### Maintaining Standards
 
